@@ -1,4 +1,4 @@
-<img align="center" src="post/welcome-youre-welcome.gif"/>
+<img align="center" src="welcome-youre-welcome.gif"/>
 <br>
 <br>
 <h1>Hi<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"><br/></h1>

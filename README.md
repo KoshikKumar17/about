@@ -13,7 +13,7 @@ I am <b> Koshik Kumar </b> 😁..<br/>
 <li>🌱 I’m currently learning ... <b> in class 9th </b> 😆😆</li>
 <li>💞️ I’m looking to collaborate on ... <b>GitHub</b>
 <li>📫 <b> <A href='https://telegra.ph/My-InFO-07-31'> Click HERE </a> </b> to get my details of all <b> social media accounts </b> ...</li>
-<li> <b> <a href="Posts/">❤️ My Posts 💖</a> :- Please read once...✌️
+<li> <b> <a href="posts/">❤️ My Posts 💖</a> :- Please read once...✌️
 
 <p align='center'>
 • My First Tweet• <a href="https://twitter.com/KoshikKumar20"><img alt="Twitter" src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>

@@ -1,4 +1,4 @@
-<img align="center" src="./welcome-youre-welcome.gif"/>
+<img align="center" src="/welcome-youre-welcome.gif"/>
 <h1> <b> <u> <font color="red"> I AM NOT </font> </u> </b> </h1>
 <br> 
 <br>

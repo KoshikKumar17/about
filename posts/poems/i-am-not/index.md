@@ -1,9 +1,4 @@
 
-<html>
-<head>
-<title> I Am Not Poem </title>
-</head>
-<body>
 <p><img align="center" src="/welcome-youre-welcome.gif"/></p>
 
 <h1> <b> <u> <font color="red"> I AM NOT </font> </u> </b> </h1>

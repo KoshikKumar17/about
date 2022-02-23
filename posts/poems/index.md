@@ -1,5 +1,5 @@
 # My Poems 💖
 
-1:- I am Not
+1:- <a href="../i-am-not">I am Not</a>
 
 2:- Beautiful Flowers 

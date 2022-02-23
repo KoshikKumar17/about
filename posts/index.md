@@ -1,5 +1,5 @@
 # My Posts
-1:- <a href="posts/poems">Poems</a>
+1:- <a href=".poems">Poems</a>
 
 2:- Stories
 

@@ -1,4 +1,4 @@
-<!Docktype HTML>
+
 <html>
 <head>
 <title> I Am Not Poem </title>
@@ -25,11 +25,8 @@ I don't know why,<br>
 but I want to be with you.<br><br>
 </font></b></center></p>
 
-<hr />
-
-<pre><code>© : Koshik
-</code></pre>
-
-<hr />
-</body>
-</html>
+___________________________________________
+```
+© : Koshik
+```
+___________________________________________

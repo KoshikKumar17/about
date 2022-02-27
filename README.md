@@ -1,7 +1,7 @@
 <img align="center" src="welcome-youre-welcome.gif"/>
 <br>
 <br>
-<h1>Hi<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> <img align="right" alt="India 🇮🇳" src="https://telegra.ph/file/e732571804d4c39dba621.jpg"><br/></h1>
+<h1>Hi<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> <img align="right" alt="India 🇮🇳" src="lioncapitalINDIA.png" width="60"><br/></h1>
  <br/>
 <img align="center" src="https://telegra.ph/file/fdb8a92b53247da693793.jpg"/><br/> <br/>
 <a href="https://koshikkumar17.github.io/"><img alt="Koshik Kumar" src="https://readme-typing-svg.herokuapp.com?font=monotype+corsiva&color=%23F744C6&size=25&duration=3000&width=500&lines=Hello+Friends+%F0%9F%91%8B;I+am+Koshik+Kumar+%F0%9F%98%81;From+Bhagalpur%2CBihar%2CIndia%F0%9F%87%AE%F0%9F%87%B3;And+You+are+on+my+WebPage"/> </a> <br>

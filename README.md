@@ -31,4 +31,7 @@ I am <b> Koshik Kumar </b> 😁..<br/>
 
 <a href="https://twitter.com/KoshikKumar20"><img alt="Twitter" src="https://img.shields.io/badge/@KoshikKumar20-2CA5E0?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </details>
-
+<br>
+<br>
+<font align="centre" color="blue"> EXTERNAL LINKS </font><br>
+<a href="https://india.gov.in"><img align="center" alt="My Country INDIA 🇮🇳" src="https://telegra.ph/file/86751beef7249f136ee9a.jpg"></a>

@@ -2,5 +2,7 @@
 
 Can be found on Telegram as [@TheTgRenameBot](https://telegram.me/TheTgRenameBot)
 
-Description:-
-<script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="TheTgRoBots/16" data-width="100%"></script>
+Description:- It can help you to rename and convert any file and video with permanent thumbnail support.😇
+With a very high speed 🚀.
+
+[![@TheTgRenameBot](https://telegram.me/TheTgRenameBot)](assets/viewinchannel.png)

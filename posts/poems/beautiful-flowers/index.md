@@ -14,8 +14,8 @@ but who knows about the sorrows pile.<br><br>
 Love to see the happiness around,<br>
 but is somehow limited by bounds.<br><br>
 Still hopeful what the life may bring,<br>
-let me break the tied strings.<br><br>
-</b></center></font>
+let me break the tied strings.</font><br><br>
+</b></center>
 </p>
 
 ___________________________________________

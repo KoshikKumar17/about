@@ -168,7 +168,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("https://telegra.ph/file/a999eb8f46528b3edcfd6.jpg") no-repeat center;
+    background: url("assets/j (6).jpeg") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
